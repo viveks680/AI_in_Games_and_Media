@@ -1,4 +1,4 @@
 # AI_in_Games_and_Media
-CS698 Fall 2020 /n
+CS698 Fall 2020 
 
 Evolution of Mona Lisa
